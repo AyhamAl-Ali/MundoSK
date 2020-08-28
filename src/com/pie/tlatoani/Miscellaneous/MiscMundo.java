@@ -9,7 +9,7 @@ import ch.njol.skript.registrations.Classes;
 import ch.njol.skript.util.Timespan;
 import ch.njol.skript.variables.SerializedVariable;
 import ch.njol.yggdrasil.Fields;
-import com.pie.tlatoani.Core.Static.Utilities;
+import com.pie.tlatoani.Core.Static.Utilities;/*
 import com.pie.tlatoani.Miscellaneous.ArmorStand.ArmorStandEquipmentSlot;
 import com.pie.tlatoani.Miscellaneous.ArmorStand.EvtArmorStandPlace;
 import com.pie.tlatoani.Miscellaneous.Hanging.EvtUnhang;
@@ -30,7 +30,7 @@ import com.pie.tlatoani.Miscellaneous.ServerListPing.ExprMotd;
 import com.pie.tlatoani.Miscellaneous.TabCompletion.ExprCompletions;
 import com.pie.tlatoani.Miscellaneous.TabCompletion.ExprCompletionsOld;
 import com.pie.tlatoani.Miscellaneous.TabCompletion.ExprLastToken;
-import com.pie.tlatoani.Miscellaneous.TabCompletion.ExprLastTokenOld;
+import com.pie.tlatoani.Miscellaneous.TabCompletion.ExprLastTokenOld;*/
 import com.pie.tlatoani.Miscellaneous.Thread.EffAsyncSetVar;
 import com.pie.tlatoani.Miscellaneous.Thread.EffWaitAsync;
 import com.pie.tlatoani.Miscellaneous.Thread.ScopeAsync;
@@ -39,7 +39,7 @@ import com.pie.tlatoani.Miscellaneous.Tree.ExprBranch;
 import com.pie.tlatoani.Miscellaneous.Tree.ExprTreeOfListVariable;
 import com.pie.tlatoani.Core.Registration.EnumClassInfo;
 import com.pie.tlatoani.Core.Registration.Registration;
-import com.pie.tlatoani.Util.Skript.SlotImpl;
+//import com.pie.tlatoani.Util.Skript.SlotImpl;
 import com.pie.tlatoani.Core.Static.Reflection;
 import org.bukkit.*;
 import org.bukkit.block.Block;
@@ -121,19 +121,19 @@ public class MiscMundo {
                         + "SkQuery's 'check %predicate%' expression can be used to use a condition as the boolean expression. "
                         + "Optionally, you can specify a timespan to be the interval to wait between checking the boolean expression. This is 1 tick by default.");
 
-        loadArmorStand();
-        loadHanging();
-        loadJSON();
-        loadMatcher();
-        loadMiscBukkit();
-        loadNoteBlock();
-        loadRandom();
-        loadServerListPing();
-        loadTabCompletion();
+        //loadArmorStand();
+        //loadHanging();
+        //loadJSON();
+        //loadMatcher();
+        //loadMiscBukkit();
+        //loadNoteBlock();
+        //loadRandom();
+        //loadServerListPing();
+        //loadTabCompletion();
         loadThread();
         loadTree();
     }
-    
+    /*
     private static void loadArmorStand() {
         Registration.registerEvent("Armor Stand Interact Event", SimpleEvent.class, PlayerArmorStandManipulateEvent.class, "armor stand (manipulate|interact)")
                 .document("Armor Stand Interact", "1.6.9", "Called when a player right clicks an armor stand to put something on it / take something off of it. "
@@ -150,7 +150,8 @@ public class MiscMundo {
         Registration.registerEvent("Armor Stand Place Event", EvtArmorStandPlace.class, EntitySpawnEvent.class, "armor stand place")
                 .document("Armor Stand Place", "1.6.9", "Called when an armor stand is placed")
                 .eventValue(Entity.class, "1.6.9", "The armor stand that was placed");
-    }
+    }*/
+    /*
 
     private static void loadHanging() {
         Registration.registerEnum(HangingBreakEvent.RemoveCause.class, "hangingremovecause", HangingBreakEvent.RemoveCause.values())
@@ -170,8 +171,8 @@ public class MiscMundo {
         Registration.registerEventValue(HangingBreakEvent.class, HangingBreakEvent.RemoveCause.class, HangingBreakEvent::getCause);
         Registration.registerExpression(ExprHangedEntity.class,Entity.class, ExpressionType.SIMPLE,"hanged entity")
                 .document("Hanged Entity", "1.6.5", "An expression, used in the Hang and Unhang events, for the entity which was hung/unhung.");
-    }
-
+    }*/
+/*
     public static Object serializeJSONElement(Object object) {
         if (object instanceof JSONArray) {
             JSONArray result = new JSONArray();
@@ -267,8 +268,8 @@ public class MiscMundo {
         Registration.registerExpression(ExprListVariableAsJson.class, JSONObject.class, ExpressionType.PROPERTY, "json (of|from) (listvar|list variable) %objects%", "jsons (of|from) (listvar|list variable) %objects%")
                 .document("JSON from List Variable", "1.6.4", "An expression for a jsonobject constructed from the information stored inside the specified list variable. ");
         Registration.registerExpression(ExprStringAsJson.class, JSONObject.class, ExpressionType.PROPERTY, "json of string %string%");
-    }
-    
+    }*/
+    /*
     private static void loadMatcher() {
         Registration.registerScope(ScopeMatcher.class, "(switch|match) %object%")
                 .document("Switch", "1.7.2", "The switch scope allows you to specify an object, then below the switch scope, insert case scopes, "
@@ -287,7 +288,8 @@ public class MiscMundo {
         Registration.registerScope(ScopeMatches.class, "(case|matches) %object%")
                 .document("Case", "1.7.2", "The case scope is written underneath a switch scope, specifying an object which, if equal to the switch scope's specified object, "
                         + "will cause the case scope's underlying code block to be run.");
-    }
+    }*/
+        /*
     
     private static void loadMiscBukkit() {
         Registration.registerEnum(Difficulty.class, "difficulty", Difficulty.values())
@@ -331,8 +333,8 @@ public class MiscMundo {
         Registration.registerExpression(ExprNewPortal.class, Location.class, ExpressionType.PROPERTY, "new nether portal within [[a] radius of] %number% (block|meter)s of %location%")
                 .document("New Nether Portal", "1.8", "An expression, used in the 'on [player] portal' event, that attempts to create a new nether portal within the specified radius of the specified location, "
                         + "and returns the location of the created portal if successful, and is not set otherwise.");
-    }
-
+    }*/
+/*
     private static void loadNoteBlock() {
         Map<String, Note> noteMap = new HashMap<>();
         for (int octave : new int[]{0, 1})
@@ -377,8 +379,8 @@ public class MiscMundo {
         Registration.registerEventValue(NotePlayEvent.class, Block.class, NotePlayEvent::getBlock);
         Registration.registerPropertyExpression(ExprNoteOfBlock.class, Note.class, "block", "note")
                 .document("Note of Noteblock", "1.6", "The current note of the specified noteblock.");
-    }
-    
+    }*/
+    /*
     private static void loadRandom() {
         Registration.registerType(Random.class, "random")
                 .document("Random", "1.7", "An object that can be used to generate random or pseudo-random numbers.")
@@ -433,7 +435,7 @@ public class MiscMundo {
                             + "for the last token typed by the player before tab completing.");
         }
     }
-    
+    */
     private static void loadThread() {
         Registration.registerEffect(EffWaitAsync.class, "async wait %timespan%")
                 .document("Async Wait", "1.8", "The asynchronous equivalent of Skript's built-in 'wait %timespan%' effect, "

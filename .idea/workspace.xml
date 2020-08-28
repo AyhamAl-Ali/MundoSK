@@ -2,120 +2,725 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="MundoSK:jar" />
+      <artifact name="MundoSk" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="576b82bb-6719-4474-8679-6476625f4156" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/src/ch/njol/skript/util/slot/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="576b82bb-6719-4474-8679-6476625f4156" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MundoSK.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MundoSK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/AchievementMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/CondHasAch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/EffAwardAch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/EffRemoveAch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/EvtAchAward.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/ExprAllAch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Achievement/ExprParentAch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Book/BookMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Book/ExprAuthorOfBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Book/ExprBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Book/ExprTitleOfBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Book/TransBookPages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ChunkMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/CondChunkLoaded.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/CondSlimey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/EffLoadChunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunk$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunkBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunkBlocks$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunkBlocks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunkCoordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Chunk/ExprChunkWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/CodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/CodeBlockMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/EffRunCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/ExprFunctionCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/FunctionCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/ScopeCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CodeBlock/ScopeSaveCodeBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Core/Static/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Core/Static/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Core/Static/OptionalUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Core/Static/OptionalUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/CondLastCustomEventCancelled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/CustomEventMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/EffCallCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/EvtCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/ExprArgsOfCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/ExprIDOfCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEvent/SkriptCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/CancellableSkriptCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/CustomEventInfo$EventValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/CustomEventInfo$SpecificExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/CustomEventInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/CustomEventNewMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/ExprSpecific.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/ScopeCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/CustomEventNew/SkriptCustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/EnchantedBook/EnchantedBookMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/EnchantedBook/ExprEnchBookWithEnch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/EnchantedBook/ExprEnchantLevelInEnchBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/EnchantedBook/ExprEnchantsInEnchBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/ChunkGeneratorWithID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/EffSetRegionInChunkData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/ExprBiomeInGrid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/ExprCurrentChunkCoordinate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/ExprMaterialInChunkData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorEvent$Generation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorEvent$Initiation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorEvent$Population.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorFunctionality$Nebula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorFunctionality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/GeneratorManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/ScopeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/SkriptGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/SkriptGenerator$SkriptBlockPopulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Generator/SkriptGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/EffInsertElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/EffMoveElements$Moveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/EffMoveElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ExprElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ExprElementCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ExprElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ExprSomeElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ListUtil$TransformerInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ListUtil$TransformerUserInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/ListUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/TransDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/Transformer$Addable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/Transformer$Removeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/Transformer$Resettable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ListUtil/Transformer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ArmorStand/ArmorStandEquipmentSlot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ArmorStand/ArmorStandEquipmentSlot$EquipSlot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ArmorStand/ArmorStandEquipmentSlot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ArmorStand/EvtArmorStandPlace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Hanging/EvtUnhang$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Hanging/EvtUnhang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Hanging/ExprHangedEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/EffPutJsonInListVariable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/EffPutJsonInListVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/ExprListVariableAsJson$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/ExprListVariableAsJson$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/ExprListVariableAsJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/JSON/ExprStringAsJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Matcher/ScopeMatcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Matcher/ScopeMatches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/CondCollidable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprDifficulty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprGameRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprHighestSolidBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprLoginResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprNewPortal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprRemainingAir$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprRemainingAir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprRespawnLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprServerIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprServerPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprTreeAtLoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprWorldByName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscMundo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscMundo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscMundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/MiscMundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/NoteBlock/EffPlayNoteBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/NoteBlock/ExprNoteOfBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Random/ExprNewRandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/Random/ExprRandomValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprAmountOfPlayers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprMotd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprCompletions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprCompletionsOld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprLastToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprLastTokenOld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Mundo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Mundo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Probability/CondProbabilityValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Probability/ExprRandomIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Probability/ExprRandomNumberIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Probability/ProbabilityMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Probability/ScopeProbability.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/Alias/ExprPacketInfoAlias$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/Alias/ExprPacketInfoAlias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/Alias/PacketInfoAlias$ContainerEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/Alias/PacketInfoAlias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/Alias/ScopePacketInfoAliases.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/EffPacketInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/EffReceivePacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/EffSendPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/EvtPacketEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprEntityOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprEnumOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket$PacketJSONConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJsonObjectOfPacket$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJsonObjectOfPacket$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprJsonObjectOfPacket$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprNewPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprPrimitiveArrayOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprPrimitiveOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/ExprTypeOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/MundoPacketEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/OldExprTypeOfPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/PacketInfoConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/PacketManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/PacketManager$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/PacketManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/ProtocolLib/PacketUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ExprDisplayedSkinOfPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ExprNameTagOfPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ExprSkinOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ExprSkinWith.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ExprTabName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ModifiableProfile$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ModifiableProfile$Specific.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ModifiableProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ProfileManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/ProfileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/EffRetrieveSkin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/ExprRetrievedSkin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/ExprRetrievedSkin$RetrieveMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/ExprRetrievedSkin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/MineSkinClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Retrieval/PlayerSkinRetrieval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/SkinMundo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/SkinMundo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/SkinMundo$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/SkinMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/ExprOwnerOfSkull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/ExprSkullFromSkin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/ExprSkullOfType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/ExprTypeOfSkull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/SkullUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/SkullUtil$Held.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/SkullUtil$Placed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Skin/Skull/SkullUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/CondFunctionSocketIsOpen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/CondServerSocketIsOpen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/EffCloseFunctionSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/EffOpenFunctionSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/EffWriteToSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/ExprHandlerOfFunctionSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/ExprMotdOfServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/ExprPassOfFunctionSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/ExprPlayerCountOfServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/SocketMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/UnusedUtilPingServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/UtilFunctionSocket$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/UtilFunctionSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Socket/UtilWriterSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ArrayTabList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/CondArrayTablistEnabled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/EffAddRemoveArrayTabs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/EffEnableDisableArrayTablist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ExprDimensionOfArrayTablist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ExprDisplayNameOfArrayTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ExprIconOfArrayTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ExprLatencyBarsOfArrayTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Array/ExprScoreOfArrayTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/CondScoresEnabled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/EffEnableDisableScores.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/ExprDefaultIcon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/ExprHeaderFooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/ExprHeightOfHeaderFooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/General/ExprLineOfHeaderFooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/EffAddToTablistGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/EffDeleteGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/EffEmptyGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/EffRemoveFromTablistGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/ExprTablistGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistProvider$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistProvider$Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistProvider$Players.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistProvider$TablistOfPlayerIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Group/TablistProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/CondPlayerTabIsVisible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/CondPlayerTabsAreVisible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/EffClearPlayerModifications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/EffShowHidePlayerTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/ExprDisplayNameOfPlayerTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/ExprLatencyBarsOfPlayerTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/ExprScoreOfPlayerTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/PlayerTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Player/PlayerTablist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/EffCreateSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/EffDeleteAllSimpleTabs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/EffDeleteSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/ExprDisplayNameOfSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/ExprIconOfSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/ExprLatencyBarsOfSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/ExprPriorityOfSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/ExprScoreOfSimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/SimpleTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Simple/SimpleTabList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/SupplementaryTablist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Tab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/Tablist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/TablistManager$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/TablistManager$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/TablistManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Tablist/TablistMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/TerrainControl/CondTCEnabled.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/TerrainControl/EffSpawnObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/TerrainControl/ExprBiomeAt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/TerrainControl/TerrainControlMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/EffPrintStackTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ExprStackTrace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ScopeCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ScopeTry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ThrowableMundo$ExprCause.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ThrowableMundo$ExprDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ThrowableMundo$ExprLineNumberOfSTE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ThrowableMundo$ExprPropertyNameOfSTE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Throwable/ThrowableMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/IntUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Invalidatable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Invalidatable$Creator$Validity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Invalidatable$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Invalidatable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Skript/SlotImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Skript/SlotLegacy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/Skript/SlotNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/SyncGetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/Util/WorldLockedLocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/EffCloseWebSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/EffStartWebSocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/EffStopWebSocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/EffWebSocketSendMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketCloseEvent$Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketCloseEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketErrorEvent$Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketErrorEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketHandshakeEvent$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketHandshakeEvent$Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketHandshakeEvent$Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketHandshakeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketMessageEvent$Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketMessageEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketOpenEvent$Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketOpenEvent$Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketOpenEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketServerEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketServerStartEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Events/WebSocketServerStopEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprAllWebSockets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprNewWebSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketHost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketServerID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketServerPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ExprWebSocketState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/CondRequestIsAccepted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprContent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHTTPStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHTTPStatusMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHandshake$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHandshake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHeader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprHeaderNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/Handshake/ExprResourceDescriptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ScopeWebSocketClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/ScopeWebSocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/SkriptWebSocketClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/SkriptWebSocketServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/WebSocketClientFunctionality$Nebula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/WebSocketClientFunctionality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/WebSocketManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/WebSocketServerFunctionality$Nebula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WebSocket/WebSocketServerFunctionality.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/BorderManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/BorderStabilizeEvent$Caller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/BorderStabilizeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/CondBorderMoving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/EvtBorderStabilize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/ExprBorderMovingValue$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/ExprBorderMovingValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/ExprTimeRemainingUntilBorderStabilize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/WorldBorderImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/BorderEvent/WorldBorderImplExt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/CondBeyondBorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/EffChangeBorderDiameter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/EffChangeBorderDiameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/EffResetBorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/ExprCenterOfBorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/ExprPropertyOfBorder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/ExprPropertyOfBorder$BorderProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/ExprPropertyOfBorder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/WorldBorderMundo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldBorder/WorldBorderMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/Dimension.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprCreatorOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprDimensionOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprGeneratorOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprGeneratorSettingsOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprNameOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprNewCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprSeedOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprStructuresOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/ExprTypeOfCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/WorldCreatorData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/WorldCreatorMundo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldCreator/WorldCreatorMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/EffCreateWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/EffCreateWorldUsingCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/EffDeleteWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/EffDuplicateWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/EffUnloadWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/ExprCurrentWorlds.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldLoader/EffLoadWorldAutomatically.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldLoader/ExprAllAutomaticCreators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldLoader/ExprAutomaticCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldLoader/WorldLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldManagementMundo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/com/pie/tlatoani/WorldManagement/WorldManagementMundo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/framing/CloseFrameBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/framing/CloseFrameBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/server/WebSocketServer$WebSocketWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/server/WebSocketServer$WebSocketWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/server/WebSocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/server/WebSocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/util/Base64.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/java_websocket/util/Base64.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/light_jsoup/HttpConnection$Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/light_jsoup/HttpConnection$Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/AbstractPacket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerNamedEntitySpawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerPlayerInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerPlayerListHeaderFooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerRespawn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardDisplayObjective.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardObjective$HealthDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardObjective$Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardObjective.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardTeam$Mode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MundoSK/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardTeam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch/njol/skript/util/slot/Slot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/AchievementMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/CondHasAch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/EffAwardAch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/EffRemoveAch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/EvtAchAward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/ExprAllAch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Achievement/ExprParentAch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Book/BookMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Book/ExprAuthorOfBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Book/ExprBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Book/ExprTitleOfBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Book/TransBookPages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ChunkMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/CondChunkLoaded.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/CondSlimey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/EffLoadChunk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ExprChunk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ExprChunkBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ExprChunkBlocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ExprChunkCoordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Chunk/ExprChunkWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/CodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/CodeBlockMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/EffRunCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/ExprFunctionCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/FunctionCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/ScopeCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CodeBlock/ScopeSaveCodeBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/CondLastCustomEventCancelled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/CustomEventMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EffCallCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EvtCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/ExprArgsOfCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/ExprIDOfCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/SkriptCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/CancellableSkriptCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/CustomEventInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/CustomEventNewMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/ExprSpecific.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/ScopeCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEventNew/SkriptCustomEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/EnchantedBook/EnchantedBookMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/EnchantedBook/ExprEnchBookWithEnch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/EnchantedBook/ExprEnchantLevelInEnchBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/EnchantedBook/ExprEnchantsInEnchBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/ChunkGeneratorWithID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/EffSetRegionInChunkData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/ExprBiomeInGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/ExprCurrentChunkCoordinate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/ExprMaterialInChunkData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/GeneratorEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/GeneratorFunctionality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/GeneratorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/ScopeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Generator/SkriptGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/EffInsertElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/EffMoveElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ExprElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ExprElementCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ExprElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ExprSomeElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ListUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/TransDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/Transformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ArmorStand/ArmorStandEquipmentSlot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ArmorStand/EvtArmorStandPlace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Hanging/EvtUnhang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Hanging/ExprHangedEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/JSON/EffPutJsonInListVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/JSON/ExprListVariableAsJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/JSON/ExprStringAsJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Matcher/ScopeMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Matcher/ScopeMatches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/CondCollidable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprDestination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprDifficulty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprGameRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprHighestSolidBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprLoginResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprNewPortal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprRemainingAir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprRespawnLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprServerIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprServerPort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprTreeAtLoc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscBukkit/ExprWorldByName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/NoteBlock/EffPlayNoteBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/NoteBlock/ExprNoteOfBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Random/ExprNewRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/Random/ExprRandomValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprAmountOfPlayers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ServerListPing/ExprMotd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprCompletions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprCompletionsOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprLastToken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/TabCompletion/ExprLastTokenOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Mundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pie/tlatoani/Mundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Probability/CondProbabilityValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Probability/ExprRandomIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Probability/ExprRandomNumberIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Probability/ProbabilityMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Probability/ScopeProbability.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/Alias/ExprPacketInfoAlias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/Alias/PacketInfoAlias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/Alias/ScopePacketInfoAliases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/EffPacketInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/EffReceivePacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/EffSendPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/EvtPacketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprEntityOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprEnumOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprJSONObjectOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprNewPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprPrimitiveArrayOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprPrimitiveOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprTypeOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/MundoPacketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/OldExprTypeOfPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketInfoConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ExprDisplayedSkinOfPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ExprNameTagOfPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ExprSkinOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ExprSkinWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ExprTabName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ModifiableProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ProfileManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/EffRetrieveSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/ExprRetrievedSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/MineSkinClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/PlayerSkinRetrieval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/SkinMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skull/ExprOwnerOfSkull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skull/ExprSkullFromSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skull/ExprSkullOfType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skull/ExprTypeOfSkull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skull/SkullUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/CondFunctionSocketIsOpen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/CondServerSocketIsOpen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/EffCloseFunctionSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/EffOpenFunctionSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/EffWriteToSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/ExprHandlerOfFunctionSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/ExprMotdOfServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/ExprPassOfFunctionSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/ExprPlayerCountOfServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/SocketMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/UnusedUtilPingServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/UtilFunctionSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Socket/UtilWriterSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ArrayTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/CondArrayTablistEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/EffAddRemoveArrayTabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/EffEnableDisableArrayTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprDimensionOfArrayTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprDisplayNameOfArrayTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprIconOfArrayTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprLatencyBarsOfArrayTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprScoreOfArrayTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/CondScoresEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/EffEnableDisableScores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprDefaultIcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprHeaderFooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprHeightOfHeaderFooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprLineOfHeaderFooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/EffAddToTablistGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/EffDeleteGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/EffEmptyGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/EffRemoveFromTablistGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/ExprTablistGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/TablistGroup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/TablistProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/CondPlayerTabIsVisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/CondPlayerTabsAreVisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/EffClearPlayerModifications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/EffShowHidePlayerTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/ExprDisplayNameOfPlayerTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/ExprLatencyBarsOfPlayerTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/ExprScoreOfPlayerTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/EffCreateSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/EffDeleteAllSimpleTabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/EffDeleteSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprDisplayNameOfSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprIconOfSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprLatencyBarsOfSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprPriorityOfSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprScoreOfSimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/SupplementaryTablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tablist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/TerrainControl/CondTCEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/TerrainControl/EffSpawnObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/TerrainControl/ExprBiomeAt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/TerrainControl/TerrainControlMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Throwable/EffPrintStackTrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Throwable/ExprStackTrace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Throwable/ScopeCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Throwable/ScopeTry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Throwable/ThrowableMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/IntUsage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/Invalidatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/Skript/SlotLegacy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/Skript/SlotNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/SyncGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/Util/WorldLockedLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/EffCloseWebSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/EffStartWebSocketServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/EffStopWebSocketServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/EffWebSocketSendMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketCloseEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketErrorEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketHandshakeEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketMessageEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketOpenEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketServerEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketServerStartEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Events/WebSocketServerStopEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprAllWebSockets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprNewWebSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketHost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketPort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketServerID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketServerPort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ExprWebSocketState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/CondRequestIsAccepted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprContent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprHTTPStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprHTTPStatusMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprHandshake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprHeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprHeaderNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/Handshake/ExprResourceDescriptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ScopeWebSocketClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ScopeWebSocketServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/SkriptWebSocketClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/SkriptWebSocketServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/WebSocketClientFunctionality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/WebSocketManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/WebSocketServerFunctionality.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/BorderManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/BorderStabilizeEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/CondBorderMoving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/EvtBorderStabilize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/ExprBorderMovingValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/ExprTimeRemainingUntilBorderStabilize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/WorldBorderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/BorderEvent/WorldBorderImplExt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/CondBeyondBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/EffChangeBorderDiameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/EffResetBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/ExprCenterOfBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/ExprPropertyOfBorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldBorder/WorldBorderMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/Dimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprCreatorOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprDimensionOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprGeneratorOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprGeneratorSettingsOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprNameOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprNewCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprSeedOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprStructuresOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/ExprTypeOfCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/WorldCreatorData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldCreator/WorldCreatorMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/EffCreateWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/EffCreateWorldUsingCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/EffDeleteWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/EffDuplicateWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/EffUnloadWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/ExprCurrentWorlds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/WorldLoader/EffLoadWorldAutomatically.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/WorldLoader/ExprAllAutomaticCreators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/WorldLoader/ExprAutomaticCreator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/WorldLoader/WorldLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pie/tlatoani/WorldManagement/WorldManagementMundo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/AbstractPacket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerNamedEntitySpawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerPlayerInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerPlayerListHeaderFooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerRespawn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardDisplayObjective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardObjective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mundosk_libraries/packetwrapper/WrapperPlayServerScoreboardTeam.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpConnection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mundosk_libraries/light_jsoup/HttpConnection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16812">
-              <caret line="1003" column="44" selection-start-line="1003" selection-start-column="44" selection-end-line="1003" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mundosk_libraries/light_jsoup/DataUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MineSkinClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/MineSkinClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfileManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ProfileManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExprEnumOfPacket.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprEnumOfPacket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExprObjectOfPacket.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-              <folding>
-                <element signature="e#5502#5503#0" expanded="true" />
-                <element signature="e#5553#5554#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PacketManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mundo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Mundo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZExperimentalMundo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ZExperimental/ZExperimentalMundo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -152,63 +757,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/EffEnableDisableScores.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprDefaultIcon.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprHeaderFooter.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprHeightOfHeaderFooter.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/General/ExprLineOfHeaderFooter.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/CondArrayTablistEnabled.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/EffAddRemoveArrayTabs.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/EffEnableDisableArrayTablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprDimensionOfArrayTablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprScoreOfArrayTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprLatencyBarsOfArrayTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprIconOfArrayTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ExprDisplayNameOfArrayTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/TablistProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/TablistGroup.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Skin.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/EffSleep.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/ZExperimental/TestEventConstruction.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/Scheduling.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ExprThatAre.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/MineSkin/PlayerSkinRetrieval.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/MineSkin/MineSkinClient.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/Config.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Registration/ModifiableSyntaxElementInfo.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/SkinMundo.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/MineSkin/ExprRetrievedSkin.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/MineSkin/EffRetrieveSkin.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/MathUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Util/IntUsage.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ArrayTablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprLocationOfSimpleTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/EffCreateSimpleTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/PlayerSkinRetrieval.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprPriorityOfSimpleTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTab.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistMundo.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTablist.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EffCallCustomEvent.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EvtCustomEvent.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistManager.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketManager.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprEnumOfPacket.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/ZExperimental/ZExperimentalMundo.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/MineSkinClient.java" />
-        <option value="$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ProfileManager.java" />
-        <option value="$PROJECT_DIR$/plugin.yml" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -218,48 +766,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MundoSK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MundoSK" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MundoSK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MundoSK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MundoSK" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MundoSK" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mundosk_libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1g7BoctBvh43BvJtFe4xzsCCQe4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/Tlatoani/Documents/MundoSK/src/com/pie/tlatoani/Miscellaneous/EffSleep.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Skript dev36.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -275,61 +792,31 @@
       <recent name="com.pie.tlatoani.Core" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -362,480 +849,28 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="124218000" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.26279864" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32992035" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14861111" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32992035" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../Dependencies/Skript.jar!/ch/njol/skript/lang/TriggerItem.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ListUtil/ListUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/MiscMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Miscellaneous/ExprThatAre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="31" column="86" selection-start-line="31" selection-start-column="86" selection-end-line="31" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/EffRetrieveSkin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprIconOfSimpleTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprDisplayNameOfSimpleTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="58" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprLocationOfSimpleTab.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Core/Registration/EnumClassInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Util/IntUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/ExprPriorityOfSimpleTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/SimpleTablist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/MathUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Core/Registration/ModifiableSyntaxElementInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Group/TablistGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/EffEnableDisableArrayTablist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Core/Static/OptionalUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Array/ArrayTablist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4068">
-          <caret line="247" column="5" selection-start-line="247" selection-start-column="5" selection-end-line="247" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Tablist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Player/PlayerTablist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
-          <caret line="158" column="30" selection-start-line="158" selection-start-column="30" selection-end-line="158" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2826">
-          <caret line="166" column="21" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/Simple/EffCreateSimpleTab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Probability/ScopeProbability.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/SkriptWebSocketClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mundosk_libraries/java_websocket/client/WebSocketClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="94" column="33" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/WebSocketServerFunctionality.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/WebSocket/ScopeWebSocketServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EvtCustomEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/EffCallCustomEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/CustomEvent/SkriptCustomEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/PlayerSkinRetrieval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/SkinMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/ExprRetrievedSkin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Tablist/TablistManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Dependencies/ProtocolLib-4.4.0-b403.jar!/com/comphenix/protocol/ProtocolLib.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprEnumOfPacket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/ExprObjectOfPacket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-          <folding>
-            <element signature="e#5502#5503#0" expanded="true" />
-            <element signature="e#5553#5554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ProtocolLib/PacketManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/lib/tools.jar!/com/sun/tools/internal/xjc/runtime/ZeroOneBooleanAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/ZExperimental/ZExperimentalMundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mundosk_libraries/light_jsoup/DataUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mundosk_libraries/light_jsoup/HttpConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16812">
-          <caret line="1003" column="44" selection-start-line="1003" selection-start-column="44" selection-end-line="1003" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/Retrieval/MineSkinClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Skin/ProfileManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/pie/tlatoani/Mundo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>MundoSK:jar</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>MundoSK</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="492" y="104" width="1024" height="842" key="#Project_Structure" timestamp="1598215723458">
+      <screen x="58" y="26" width="1862" height="1054" />
+    </state>
+    <state x="448" y="112" key="#Project_Structure/0.39.1920.989/1920.0.1920.1080@0.39.1920.989" timestamp="1597484377484" />
+    <state x="492" y="104" width="1024" height="842" key="#Project_Structure/58.26.1862.1054/1920.0.1920.1080@58.26.1862.1054" timestamp="1598215723458" />
+    <state x="802" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1598214271247">
+      <screen x="58" y="26" width="1862" height="1054" />
+    </state>
+    <state x="802" y="263" key="#com.intellij.ide.util.MemberChooser/58.26.1862.1054/1920.0.1920.1080@58.26.1862.1054" timestamp="1598214271247" />
+    <state x="2610" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598215118325">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/58.26.1862.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598215118325" />
+    <state x="727" y="304" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/58.26.1862.1054/1920.0.1920.1080@58.26.1862.1054" timestamp="1598214307384" />
+    <state x="554" y="281" key="FileChooserDialogImpl" timestamp="1598215690873">
+      <screen x="58" y="26" width="1862" height="1054" />
+    </state>
+    <state x="511" y="278" key="FileChooserDialogImpl/0.39.1920.989/1920.0.1920.1080@0.39.1920.989" timestamp="1597484374917" />
+    <state x="554" y="281" key="FileChooserDialogImpl/58.26.1862.1054/1920.0.1920.1080@58.26.1862.1054" timestamp="1598215690873" />
   </component>
 </project>

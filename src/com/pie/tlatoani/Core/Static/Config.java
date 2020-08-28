@@ -1,7 +1,7 @@
 package com.pie.tlatoani.Core.Static;
 
 import com.pie.tlatoani.Mundo;
-import com.pie.tlatoani.Skin.Retrieval.PlayerSkinRetrieval;
+//import com.pie.tlatoani.Skin.Retrieval.PlayerSkinRetrieval;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.file.FileConfiguration;
 
@@ -33,7 +33,7 @@ public final class Config {
         config.options().copyDefaults(true);
         options.forEach(option -> option.loadValue(config));
         Mundo.get().saveConfig();
-        PlayerSkinRetrieval.reloadSkinCache();
+        //PlayerSkinRetrieval.reloadSkinCache();
     }
 
     public static void displayConfig(CommandSender sender) {
