@@ -48,5 +48,5 @@ public abstract class Slot implements Debuggable {
      * @param o Another slot
      * @return True if positions equal, false otherwise.
      */
-    public abstract boolean isSameSlot(Slot o);
+    public boolean isSameSlot(Slot o);
 }
